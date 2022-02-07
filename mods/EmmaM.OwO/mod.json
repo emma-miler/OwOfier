@@ -1,0 +1,15 @@
+{
+	"Name": "EmmaM.OwO",
+	"Description": "OwO",
+	"Version": "1.0.0",
+	"LoadPriority": 1,
+	"Scripts": [
+        {
+			"Path": "chathook.nut",
+			"RunOn": "SERVER",
+			"ServerCallback": {
+				"After": "addCallback"
+			}
+		}
+	]
+}

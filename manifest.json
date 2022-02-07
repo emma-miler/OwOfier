@@ -1,9 +1,6 @@
 {
-    "name": "ExampleMod",
-    "version_number": "0.0.1",
-    "website_url": "https://github.com/laundmo/northstar-mod-template",
-    "description": "Example mod",
-    "dependencies": [
-        "Username-Modname-1.5.0"
-    ]
+    "name": "EmmaM.OwOFier",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/emma-miler/OwOfier",
+    "description": "OwO"
 }
