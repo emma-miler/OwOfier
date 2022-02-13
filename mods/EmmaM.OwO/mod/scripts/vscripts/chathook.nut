@@ -16,5 +16,5 @@ ClServer_MessageStruct function callbacktest(ClServer_MessageStruct message) {
 }
 
 void function addCallback() {
-    AddCallback_OnRecievedSayTextMessage( callbacktest )
+    AddCallback_OnReceivedSayTextMessage( callbacktest )
 }

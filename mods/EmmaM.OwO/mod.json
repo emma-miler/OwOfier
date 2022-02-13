@@ -1,7 +1,7 @@
 {
 	"Name": "EmmaM.OwO",
 	"Description": "OwO",
-	"Version": "1.0.0",
+	"Version": "1.0.2",
 	"LoadPriority": 1,
 	"Scripts": [
         {
